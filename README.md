@@ -1,16 +1,14 @@
 ## Hi there 👋
+My name is Tyler Vanalstine I am Physicist and Computer Scientist
 
-<!--
-**tylervanalstine1/tylervanalstine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work at NASA.
 
-Here are some ideas to get you started:
+I enjoy programming projects and have recently started competing in Kaggle Competitions.
+[![](https://komarev.com/ghpvc/?username=marwin1991&color=000000)](https://github.com/tylervanalstine1?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tyler.vanalstine@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tyler-vanalstine/)
+[<img src="https://img.shields.io/badge/just%20the%20message-8A2BE2">](https://tylervportfolio.wordpress.com/)
+
+
+- 🔭 I’m currently working on [**logchange**](https://github.com/logchange/logchange)
