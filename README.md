@@ -51,6 +51,7 @@ I enjoy programming projects and have recently started competing in Kaggle Compe
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
 </div>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tylervanalstine1&show_icons=true&theme=great-gatsby)](https://github.com/tylervanalstine1?tab=repositories)
 
 
